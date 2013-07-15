@@ -1,10 +1,10 @@
-//	HYPE.documents["testbook"]
+//	HYPE.documents["jjss"]
 
 (function HYPE_DocumentLoader() {
-	var resourcesFolderName = "testbook.hyperesources";
-	var documentName = "testbook";
-	var documentLoaderFilename = "testbook_hype_generated_script.js";
-	var mainContainerID = "testbook_hype_container";
+	var resourcesFolderName = "jjss.hyperesources";
+	var documentName = "jjss";
+	var documentLoaderFilename = "jjss_hype_generated_script.js";
+	var mainContainerID = "jjss_hype_container";
 
 	// find the URL for this script's absolute path and set as the resourceFolderName
 	try {
